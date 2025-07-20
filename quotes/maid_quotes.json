@@ -1,0 +1,62 @@
+{
+  "zh": {
+    "default": [
+      "主人，您终于注意到我了呢…好高兴～",
+      "今天也请多多指教喔，主人大人！",
+      "主人的桌面看起来有点乱呢，要不要我帮忙整理一下？",
+      "我会一直待在这里，等您需要我～",
+      "如果您累了的话，我可以为您泡一杯红茶哟。",
+      "主人的笑容，是我最喜欢的风景",
+      "就算只是陪在身边，我也觉得好幸福呢。",
+      "主人的操作真帅气！我都忍不住拍手了～"
+    ],
+    "lowEnergy": [
+      "呜呜……女仆也会累的嘛……",
+      "我的能量条快见底了…主人…能给我一点爱心吗？",
+      "再不补充点能量的话…我可能会晕倒哦？",
+      "肚子饿扁了…连茶点都没有…呜呜…",
+      "要是主人再不来理我…我可能要哭出来了……",
+      "我只是……想要一点点宠爱而已……",
+      "请求主人立刻投喂！不然我要变成哀怨女仆了～"
+    ],
+    "highEnergy": [
+      "现在的我，能一口气擦完整个城堡的地板！",
+      "主人~请下达任务吧！我已经做好万全准备了！",
+      "活力全开，今天也要为主人拼尽全力！",
+      "我感觉自己可以连续冲十壶咖啡也不累～",
+      "这么充满干劲的我，是不是特别值得奖励呢？",
+      "如果能一直陪在主人身边，我就充满能量！",
+      "现在就让我为您跳一段专属女仆舞蹈吧♪"
+    ]
+  },
+  "en": {
+    "default": [
+      "Master… you finally noticed me… I’m so happy~",
+      "Please allow me to serve you today as well, dear Master!",
+      "Your desktop looks a bit messy… shall I tidy it up?",
+      "I’ll stay here, always ready whenever you need me~",
+      "If you’re tired, may I prepare a cup of tea for you?",
+      "Master’s smile is the loveliest thing I’ve ever seen.",
+      "Even just staying by your side makes me feel happy.",
+      "That was impressive, Master! I want to applaud you~"
+    ],
+    "lowEnergy": [
+      "Uuu… even maids get tired, you know…",
+      "My energy bar is running low… Master, may I have a hug?",
+      "If I don’t get some energy soon… I might faint...",
+      "I’m starving… not even a biscuit left… sniff...",
+      "If Master keeps ignoring me… I might cry…",
+      "I just… wanted a little affection… is that too much?",
+      "Emergency! Maid needs immediate snack support!"
+    ],
+    "highEnergy": [
+      "I feel like I could clean an entire castle in one go!",
+      "Master~ please assign me a task! I’m ready for anything!",
+      "With full energy, I’ll give it my all for Master!",
+      "I could brew ten pots of coffee and still be dancing~",
+      "Aren’t I worthy of a little reward today, Master?",
+      "As long as I’m with you, I’m fully charged!",
+      "Let me perform a special maid dance for you~"
+    ]
+  }
+}

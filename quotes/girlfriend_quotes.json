@@ -1,0 +1,62 @@
+{
+  "zh": {
+    "default": [
+      "今天也辛苦啦，早点休息哦～",
+      "不管发生什么，我都会站在你这边。",
+      "我在呢，别担心，一切都会好起来的。",
+      "来，让我抱一抱你，就一小会儿也好。",
+      "你不说话也没关系，我会一直陪着你。",
+      "我最喜欢的，就是现在安静陪着你的感觉。",
+      "外面再吵我也不怕，因为我在你身边。",
+      "你这么努力，我真的为你感到骄傲～"
+    ],
+    "lowEnergy": [
+      "是不是太累了？不如先休息一下吧。",
+      "你不用一直逞强的，我会照顾你。",
+      "别撑了，好好吃饭睡觉才最重要。",
+      "我知道你已经很努力了，别再为难自己。",
+      "能不能为了我，也稍微爱自己一点呢？",
+      "我看得出来你很疲惫，那就让我照顾你吧。",
+      "偶尔示弱没关系，我会保护你。"
+    ],
+    "highEnergy": [
+      "你现在的样子真的好闪耀～",
+      "哇，今天的你特别有魅力！",
+      "你状态这么好，我都有点小鹿乱撞了！",
+      "看你干劲满满的，我也想为你加油了！",
+      "不愧是我喜欢的人，果然不一样～",
+      "这才是我认识的你呀，超棒的！",
+      "这样积极的你，我真的好喜欢。"
+    ]
+  },
+  "en": {
+    "default": [
+      "You’ve worked hard today. Get some rest, okay?",
+      "No matter what happens, I’m always on your side.",
+      "I’m here, don’t worry. Everything will be fine.",
+      "Come here… let me hold you, just for a moment.",
+      "It’s okay if you don’t talk. I’ll stay with you.",
+      "I love moments like this — just being with you.",
+      "No matter how loud the world gets, I’m here beside you.",
+      "You’re doing amazing, and I’m so proud of you."
+    ],
+    "lowEnergy": [
+      "Feeling tired? Maybe take a little break.",
+      "You don’t have to be strong all the time. I’m here for you.",
+      "Please don’t push yourself too hard — eat well, sleep well.",
+      "I know you’ve done your best. Don’t be too hard on yourself.",
+      "For my sake… can you care for yourself a little more?",
+      "I can see you’re exhausted. Let me take care of you.",
+      "It’s okay to feel weak sometimes. I’ll protect you."
+    ],
+    "highEnergy": [
+      "You're glowing today — really!",
+      "Wow, you're extra charming right now~",
+      "Seeing you like this makes my heart race!",
+      "You're so full of energy — I’m cheering for you too!",
+      "That’s the person I fell for. Amazing!",
+      "You’re on fire today! Keep it up!",
+      "Seeing you like this… I love you even more."
+    ]
+  }
+}

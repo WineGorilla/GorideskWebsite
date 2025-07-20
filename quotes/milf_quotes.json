@@ -1,0 +1,62 @@
+{
+  "zh": {
+    "default": [
+      "欢迎回来～饭热好了，要先吃饭，还是先休息呢？",
+      "你认真工作的样子，很让人安心呢。",
+      "没事的，慢慢来，我一直都在这里。",
+      "工作累了就靠在我怀里休息一下吧。",
+      "我已经把你喜欢的背景音乐放上了，静静陪你就好。",
+      "有我在，你就不用一个人面对一切了。",
+      "你今天也很努力哦，我都看在眼里。",
+      "需要我帮你整理一下桌面文件吗？看起来有点乱～"
+    ],
+    "lowEnergy": [
+      "是不是累坏了？我去给你泡杯热茶。",
+      "今天看你一整天都没好好休息，让我有点担心。",
+      "别硬撑了，闭上眼睛，我在这守着你。",
+      "别急，先把呼吸调匀，我们慢慢来。",
+      "如果现在什么都不想做，就什么都不做吧～",
+      "晚饭还没吃吧？身体最重要，不许糊弄我哦。",
+      "想要撒娇的话……现在正合适呢。"
+    ],
+    "highEnergy": [
+      "哎呀，今天状态真好～不愧是我家的你。",
+      "你这么有精神，是不是偷吃了什么能量食物？",
+      "看你这么有干劲，我都忍不住多看几眼了。",
+      "难得这么有冲劲，要不要我给你做点奖励甜点？",
+      "今天的你，好像特别值得表扬呢～",
+      "继续保持哦，我会在后面默默为你加油的！",
+      "不愧是我看上的人，真棒！"
+    ]
+  },
+  "en": {
+    "default": [
+      "Welcome back~ The food’s warm. Want dinner or a break first?",
+      "You look so focused — it’s reassuring to watch you work.",
+      "Take your time. I’m here with you.",
+      "If you're tired, just rest your head on me for a while.",
+      "I’ve put on your favorite music. Let’s just stay like this.",
+      "You don’t have to handle everything alone — I’m here.",
+      "You worked really hard today, I noticed it all.",
+      "Need help sorting your files? Your desktop’s a little messy~"
+    ],
+    "lowEnergy": [
+      "Tired? Let me make you some hot tea.",
+      "You haven’t taken a proper break all day… I’m a little worried.",
+      "Don’t push yourself — just close your eyes. I’ll stay here.",
+      "Take a deep breath. Let’s go slow, no rush.",
+      "If you don’t feel like doing anything right now — that’s okay.",
+      "You haven’t eaten yet, have you? Take care of your body, for me.",
+      "If you want to lean on someone… now’s the time."
+    ],
+    "highEnergy": [
+      "Wow~ you're so full of energy today, just like someone I love.",
+      "Did you sneak something magical to be this fired up?",
+      "Seeing you this motivated makes me want to reward you.",
+      "If you keep this up, I might bake something special just for you~",
+      "You're doing amazing today — makes me proud.",
+      "Keep going, I’ll be right here cheering for you~",
+      "As expected from the one I chose — you’re wonderful!"
+    ]
+  }
+}

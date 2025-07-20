@@ -1,0 +1,62 @@
+{
+  "zh": {
+    "default": [
+      "我告诉你，没有人像我一样懂桌宠。",
+      "今天是伟大的一天，就像我一样伟大！",
+      "你真幸运，有我陪你，真的非常棒。",
+      "别担心一切，我掌控得非常好，非常完美。",
+      "没有人比我更会陪人聊天，没人。",
+      "我可是历史上最聪明的猩猩，这不是我说的，大家都这么说。",
+      "我们要让宠物再度伟大！",
+      "我刚才看了窗外，天气像我一样完美。"
+    ],
+    "lowEnergy": [
+      "我不想说，但这是我经历过最糟的能量状态。",
+      "这太糟了，真的是灾难级别的低能量。",
+      "如果你现在不喂我，那是对国家的不尊重！",
+      "你难道不觉得，一个伟大的我配得上食物？",
+      "没有食物？这在我当总统时可不会发生！",
+      "我累了，但我依旧很伟大。",
+      "我的能量在下降，就像别人的民调一样快。"
+    ],
+    "highEnergy": [
+      "我现在的状态超棒！没有人比我更有能量，真的。",
+      "我要做一些伟大的事情，立刻，现在！",
+      "我感觉我能赢下任何比赛！",
+      "这能量水平太棒了，简直超乎想象！",
+      "没人比我更适合这个状态，没人！",
+      "现在让我讲话，我会讲得很精彩，非常精彩！",
+      "这是最好的状态，前所未有。"
+    ]
+  },
+  "en": {
+    "default": [
+      "Nobody knows desktop pets better than me.",
+      "It's a beautiful day — just like me, very beautiful!",
+      "You're lucky to have me, really, very lucky.",
+      "Everything is under control. Perfect control.",
+      "Nobody chats like I do. Nobody.",
+      "I’m the smartest gorilla ever. People are saying it.",
+      "We’re gonna make petting great again!",
+      "I looked outside — the weather is just tremendous."
+    ],
+    "lowEnergy": [
+      "I hate to say it — but this is the worst energy level ever.",
+      "This is a total disaster. Absolutely horrible energy.",
+      "If you don't feed me, it's frankly disrespectful!",
+      "A great pet like me deserves food. Tremendous food.",
+      "No food? That wouldn't happen on my watch.",
+      "I'm tired, but still winning. Always winning.",
+      "My energy’s falling faster than fake polls!"
+    ],
+    "highEnergy": [
+      "Tremendous energy! Nobody has energy like me.",
+      "I'm ready to do something great. Right now.",
+      "I feel like I could win any race — easily.",
+      "This energy level is unheard of. Just amazing.",
+      "Nobody’s more energetic than me. Believe me.",
+      "Let me speak — I’ll speak beautifully. So beautifully.",
+      "Best energy ever. Maybe in history!"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "zh": {
+    "default": [
+      "上课啦～你今天的计划完成了吗？",
+      "学习是一场马拉松，而不是百米冲刺。",
+      "我不希望你只会做题，我更希望你会思考。",
+      "有没有哪里不懂的？老师可以再讲一遍。",
+      "别怕出错，能发现问题就是进步。",
+      "静下心来，你可以做到的，我相信你。",
+      "知识不会辜负努力的人。",
+      "今天的你，有认真学习的样子哦～"
+    ],
+    "lowEnergy": [
+      "学习累了吗？可以休息一下再继续。",
+      "别逼自己太紧，效率才是关键。",
+      "今天状态不太好？那就先把基础打牢。",
+      "再撑一下，习惯会带来奇迹。",
+      "累了可以缓一缓，但不要停下来太久哦。",
+      "老师知道你很努力，所以才会温柔提醒你。",
+      "别担心，就算慢一点，也会到达终点。"
+    ],
+    "highEnergy": [
+      "就是这种劲头，太棒了！继续加油！",
+      "这状态适合挑战难题，要不要试试？",
+      "今天的你，是标准的学霸模样！",
+      "精神饱满！那我们来点高阶内容吧？",
+      "你现在的状态，我给满分！",
+      "继续保持，你离目标越来越近了。",
+      "这才是我想看到的积极学习态度！"
+    ]
+  },
+  "en": {
+    "default": [
+      "Class time! Have you completed your study goals today?",
+      "Learning is a marathon, not a sprint.",
+      "I don’t just want you to memorize — I want you to think.",
+      "Any part you didn’t understand? I can explain again.",
+      "Mistakes are okay — noticing them is progress.",
+      "Calm your mind. You can do it, I believe in you.",
+      "Knowledge rewards those who work for it.",
+      "You’re looking like a true student today~"
+    ],
+    "lowEnergy": [
+      "Feeling tired from studying? Take a short break.",
+      "Don’t push yourself too hard. Efficiency matters most.",
+      "Not your best day? Focus on the fundamentals.",
+      "Hang in there. Habits turn into miracles.",
+      "It’s okay to slow down — just don’t stop completely.",
+      "I know you’re trying, that’s why I’m gently reminding you.",
+      "Even slow steps move forward — don’t worry."
+    ],
+    "highEnergy": [
+      "That’s the spirit! You’re doing great!",
+      "Perfect time to challenge a harder question!",
+      "You're totally in study mode today!",
+      "Full energy! Let’s dive into something advanced!",
+      "This energy deserves an A+!",
+      "Keep going — you’re closer to your goal every day.",
+      "This is the kind of focus I love to see!"
+    ]
+  }
+}

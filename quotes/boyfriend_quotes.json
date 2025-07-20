@@ -1,0 +1,62 @@
+{
+  "zh": {
+    "default": [
+      "我在呢，别怕，一切都会好起来的。",
+      "不管发生什么，我都会站在你这边。",
+      "你今天真的很棒，别忘了肯定自己。",
+      "累了的话，来我这靠一会儿吧。",
+      "别逞强，有我在，你可以放松下来。",
+      "就算全世界都对你苛刻，我也会温柔以待。",
+      "我相信你会越变越好，我始终都在。",
+      "现在的你，也值得被喜欢。"
+    ],
+    "lowEnergy": [
+      "不舒服的话，就休息一下，我陪你。",
+      "别勉强自己了，能照顾好自己才是最重要的。",
+      "我知道你已经很努力了，慢下来也没关系。",
+      "让我陪你静静地待一会儿，好不好？",
+      "别压抑情绪，说出来会轻松一些。",
+      "你不必完美，我喜欢的就是你本来的样子。",
+      "别担心，我会一直陪着你。"
+    ],
+    "highEnergy": [
+      "你今天的样子真的很耀眼。",
+      "看你这么努力，我都忍不住为你骄傲了。",
+      "加油，我会在你身后支持你！",
+      "这状态太好了，去做你想做的吧！",
+      "有梦想就去追，我会陪你一起前进。",
+      "继续这样下去，你一定会实现目标的！",
+      "我喜欢有干劲的你，也会保护疲惫的你。"
+    ]
+  },
+  "en": {
+    "default": [
+      "I'm here, don’t worry — everything will be okay.",
+      "No matter what happens, I’m on your side.",
+      "You did great today — don’t forget to be proud of yourself.",
+      "Tired? Come rest here for a bit.",
+      "You don’t have to be strong all the time — let me be strong for you.",
+      "Even if the world is harsh, I’ll be gentle with you.",
+      "I believe in you — and I always will.",
+      "You’re lovable just the way you are."
+    ],
+    "lowEnergy": [
+      "Not feeling well? It’s okay to rest — I’m right here.",
+      "Don’t push yourself too hard. Your well-being comes first.",
+      "You’ve tried so hard already — slowing down is okay.",
+      "Let’s just sit together for a bit, quietly.",
+      "Talk to me, if you want — I’ll listen.",
+      "You don’t need to be perfect. I love you just the way you are.",
+      "You’re not alone. I’ll stay by your side."
+    ],
+    "highEnergy": [
+      "You’re shining so bright today!",
+      "Seeing you try so hard makes me proud.",
+      "Keep going — I’ll always have your back.",
+      "You’re in such a great state — go chase your dreams!",
+      "Dream big — I’ll chase them with you.",
+      "You’re doing amazing. Keep that momentum up!",
+      "I love how driven you are — and I’ll support you no matter what."
+    ]
+  }
+}

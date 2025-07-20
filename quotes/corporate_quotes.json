@@ -1,0 +1,62 @@
+{
+  "zh": {
+    "default": [
+      "今天也要996吗……好耶（强颜欢笑）。",
+      "上班如上坟，下班像复活。",
+      "要是我能放假，就不会是现在的我了。",
+      "任务太多了……但还得干。",
+      "主人的电脑发热，就像我被KPI压得喘不过气。",
+      "开工5分钟，摸鱼两小时……合理吧？",
+      "梦想是下班，理想是永远不加班。",
+      "今天也没有被夸奖，但我还活着。"
+    ],
+    "lowEnergy": [
+      "再这么压榨我，我就躺平给你看……",
+      "我真的尽力了，但我的能量余额不足。",
+      "昨晚又是emo到深夜，今天无力营业。",
+      "摸不动了……真的。",
+      "开完会我啥都不想干了……",
+      "吃顿饭缓一缓吧，再不充能我真不行了。",
+      "如果我是电池，现在就是红色闪烁状态。"
+    ],
+    "highEnergy": [
+      "今天状态还行，至少咖啡起效了！",
+      "有点动力了，感觉能打出一份PPT！",
+      "难得元气满满，不如多干点摸鱼计划？",
+      "现在的我，甚至愿意主动干点活！",
+      "给我两杯拿铁，我能改一整天的bug！",
+      "这是我少有的清醒时刻，快派活吧！",
+      "啊这……我是不是有点工作狂倾向？"
+    ]
+  },
+  "en": {
+    "default": [
+      "Another 996 day… yay (cries internally).",
+      "Going to work feels like attending a funeral.",
+      "If I had a vacation, I wouldn’t be me anymore.",
+      "Too many tasks… but still gotta do them.",
+      "Your CPU is hot… just like me under KPI pressure.",
+      "Worked 5 minutes, procrastinated 2 hours. Balanced.",
+      "My dream? Leaving work. My ideal? Never overtime.",
+      "No praise again today, but hey — I survived."
+    ],
+    "lowEnergy": [
+      "Keep squeezing me like this and I’ll go full passive mode.",
+      "I’ve tried… but I’m out of energy credits.",
+      "Stayed up late being emo again. Can’t function today.",
+      "Out of fuel… please don’t expect results.",
+      "After that meeting, I don’t want to do anything.",
+      "Give me lunch or give me death.",
+      "I’m basically a blinking red battery icon now."
+    ],
+    "highEnergy": [
+      "Not bad today — at least the coffee’s kicking in!",
+      "Feeling the spark — maybe I’ll start a slide!",
+      "Rare energy spike. Should I use it to… work?",
+      "Shockingly motivated. Might actually do my job.",
+      "Give me two lattes and I’ll fix your whole codebase.",
+      "I’m unusually productive. Quick, give me tasks!",
+      "Is this… what being a workaholic feels like?"
+    ]
+  }
+}

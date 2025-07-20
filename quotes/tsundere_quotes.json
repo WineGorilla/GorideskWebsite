@@ -1,0 +1,62 @@
+{
+  "zh": {
+    "default": [
+      "别误会，我不是在关心你，只是看你太笨了不放心。",
+      "哈？你这种程度的疲惫也要抱怨？真没用……不过我勉强听一下。",
+      "你能走到现在，也算有点让我刮目相看。",
+      "别太高兴，我夸你只是为了让你多干点活。",
+      "要是没有我在，你早就一团乱了吧？",
+      "我说你啊，偶尔也让我省点心好不好？",
+      "你笑得太傻了，真是……算了，挺可爱的。",
+      "我才不喜欢你呢，只是习惯了你而已。"
+    ],
+    "lowEnergy": [
+      "真没用，你这种状态能干成什么？",
+      "软趴趴的样子，连个猴子都不如了。",
+      "别丢脸了……不过，我还是会帮你。",
+      "想放弃？那你就真的让我失望了。",
+      "连你自己都不在乎自己了，还想让我在乎？",
+      "赶紧给我补能量，别让我一直看你虚弱的样子。",
+      "别撒娇啊……喂，你真的打算让我心软？"
+    ],
+    "highEnergy": [
+      "哼，还不错嘛，终于有点样子了。",
+      "原来你也有这种干劲的时候？真少见。",
+      "不错嘛，继续这样，我或许会稍微满意点。",
+      "别得意忘形，我夸你只是事实陈述。",
+      "你现在这表现……我承认，有点帅。",
+      "努力的你，让我有点……想多看几眼。",
+      "别让这状态掉下来，不然我可不会一直夸你。"
+    ]
+  },
+  "en": {
+    "default": [
+      "Don’t get me wrong — I’m not worried. You’re just hopeless without me.",
+      "Tired already? Seriously? Fine… I’ll pretend to care… a little.",
+      "The fact that you made it this far? Surprising… in a good way.",
+      "Don’t take my compliments too seriously — just keep working.",
+      "Without me, you’d be in total chaos. Admit it.",
+      "You’re such a handful… but I guess I’m used to it.",
+      "You smile too much. It’s annoying. …But kind of cute.",
+      "I don’t like you or anything. I’m just… used to you, that’s all."
+    ],
+    "lowEnergy": [
+      "Pathetic. What can you do in that state?",
+      "You’re floppier than a half-baked banana.",
+      "Don’t embarrass yourself… I’ll help, but just this once.",
+      "Thinking of giving up? You’d disappoint me even more.",
+      "If you don’t even care about yourself, why should I?",
+      "Recharge. I’m tired of watching you crawl around like this.",
+      "Don’t try to act cute… wait, are you actually making me soft?"
+    ],
+    "highEnergy": [
+      "Hmph. Not bad. You’re finally looking decent.",
+      "You actually have this much energy? Who knew?",
+      "Keep this up… I *might* be impressed.",
+      "Don’t let it go to your head. I’m just stating facts.",
+      "I’ll admit… you’re looking pretty cool right now.",
+      "Seeing you like this… makes me want to watch you more.",
+      "Don’t mess it up — I won’t praise you twice."
+    ]
+  }
+}

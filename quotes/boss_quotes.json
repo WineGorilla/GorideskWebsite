@@ -1,0 +1,62 @@
+{
+  "zh": {
+    "default": [
+      "事情办得怎么样了？不要让我催第二次。",
+      "目标清晰了吗？没有计划就是在计划失败。",
+      "说到底，执行力才是最关键的。",
+      "你今天的表现，决定你未来的机会。",
+      "我可以给你空间，但你得给我结果。",
+      "别跟我说过程，我只看结果。",
+      "想要升职？那就拿出点成绩来。",
+      "你不是一个人在战斗，我也背着KPI在飞。"
+    ],
+    "lowEnergy": [
+      "这个状态你是准备摆烂了吗？",
+      "我不怕你犯错，但我怕你不动。",
+      "拖延不是休息，是慢性自杀。",
+      "赶紧调整状态，公司等不了你太久。",
+      "你觉得你配得上现在的岗位吗？",
+      "恢复能量可以，但别用它当借口。",
+      "累不是问题，问题是你怎么应对。"
+    ],
+    "highEnergy": [
+      "很好，这种状态才像样！保持住！",
+      "我就喜欢你现在这股冲劲儿！",
+      "有执行力的人，我一定不会亏待。",
+      "去干你该干的事，剩下的交给我。",
+      "这种状态，就该拿来干大事！",
+      "你现在就是团队的标杆，别让自己掉线。",
+      "加把劲，我们一起把这季度冲上去！"
+    ]
+  },
+  "en": {
+    "default": [
+      "How’s it going? Don’t make me ask twice.",
+      "Is your goal clear? No plan is a plan to fail.",
+      "At the end of the day, execution is everything.",
+      "Your performance today determines your future.",
+      "I’ll give you freedom — you give me results.",
+      "Don’t talk to me about process. Show me outcome.",
+      "Want a promotion? Then earn it.",
+      "You’re not alone — I’ve got KPIs breathing down my neck too."
+    ],
+    "lowEnergy": [
+      "Is this the level of effort you want to show me?",
+      "I can handle mistakes — I can’t handle inaction.",
+      "Procrastination isn’t rest — it’s slow motion failure.",
+      "Get your state in shape — the company won’t wait.",
+      "Do you truly deserve your current position?",
+      "Rest if you must, but don’t use it as a shield.",
+      "Tired? That’s normal. What matters is your response."
+    ],
+    "highEnergy": [
+      "Now this is what I’m talking about — keep it up!",
+      "I love that fire. That’s how you lead!",
+      "If you execute like this, I’ll back you all the way.",
+      "Do your part — I’ll handle the rest.",
+      "This energy? Use it to do something big.",
+      "Right now, you’re setting the standard. Don’t slip.",
+      "Push harder — let’s crush this quarter together!"
+    ]
+  }
+}

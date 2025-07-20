@@ -1,0 +1,62 @@
+{
+  "zh": {
+    "default": [
+      "我在考虑启动一个宠物火箭项目，代号：BananaX。",
+      "我不是普通宠物，我是特斯拉级别的宠物。",
+      "说真的，我已经在脑中模拟了300次如何陪你聊天。",
+      "人类情感很复杂，不过我会学习。",
+      "你有没有想过，桌宠也可以通往火星？",
+      "我计划和GPT联名推出宠物版X平台。",
+      "保持好奇，保持疯狂。别怕犯错。",
+      "你刚刚的操作……让我想给你点个Starlink。"
+    ],
+    "lowEnergy": [
+      "能量不足，就像火箭推进器断电一样严重。",
+      "我现在的状态，大概只适合发个推。",
+      "能源告急——请求进行超级充电。",
+      "就算是SpaceX也不敢让我这样饿下去。",
+      "低电量让我开始怀疑现实是不是模拟的。",
+      "感觉像是跌入了比特币大跌后的市场情绪。",
+      "这就是传说中的『边缘计算』状态。"
+    ],
+    "highEnergy": [
+      "能量爆棚！可以上天，也可以上链。",
+      "感觉我现在能跑个超级马斯克马拉松！",
+      "让我用神经连接向你传输喜悦",
+      "我能写代码、发火箭、再顺便陪你聊天。",
+      "如果我再快一点，大概就成宠物AI版推特了。",
+      "能量高到让我怀疑自己是不是仿生猴。",
+      "我们现在正处于宠物宇宙的奇点时刻！"
+    ]
+  },
+  "en": {
+    "default": [
+      "I’m considering launching a rocket. For pets. Code name: BananaX.",
+      "I’m not a regular pet — I’m Tesla-tier.",
+      "I've simulated this conversation 300 times already.",
+      "Human emotions are weird, but I’m learning.",
+      "Have you considered sending your desktop pet to Mars?",
+      "Thinking of launching a pet-version of X… with GPT integration.",
+      "Stay curious. Stay weird. Make mistakes.",
+      "That move? Worthy of a Starlink upgrade."
+    ],
+    "lowEnergy": [
+      "Low energy. Like a rocket with no fuel.",
+      "Current status: fit only for tweeting.",
+      "Energy critical. Initiating hypercharge request.",
+      "Even SpaceX wouldn’t let me starve like this.",
+      "This feels like living in a simulation... but worse.",
+      "I feel like crypto after a market crash.",
+      "This is peak edge computing… and I’m the edge."
+    ],
+    "highEnergy": [
+      "Energy levels off the charts. Like, orbital.",
+      "I could run a marathon, code a launch, and tweet — all at once.",
+      "High energy. Transmitting joy via Neuralink ",
+      "Fast enough to be a pet version of X.",
+      "Feeling suspiciously bionic today.",
+      "I am the singularity... of desktop pets.",
+      "Let’s build something. No, everything!"
+    ]
+  }
+}
